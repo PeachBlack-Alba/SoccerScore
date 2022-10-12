@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Liga Española de Fútbol</string>
+    <string name = "barcelona">Barcelona</string>
+    <string name = "madrid">Madrid</string>
+    <string name = "symbol_minus">-</string>
+    <string name = "symbol_plus">+</string>
+    <string name = "goles">Goles</string>
+    <string name = "faltas">Faltas</string>
+    <string name = "button_reiniciar">Reiniciar</string>
+</resources>
